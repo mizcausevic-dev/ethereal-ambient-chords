@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/ethereal-ambient-chords-simple-synth-preview.mp3",
+  "preview_sha256": "1417bcb1eb645b05170ec62c147182b7c6f225a88aa16d6392fa5a58c3c98d1f",
+  "source_midi_path": "midi/z6901-ethereal-ambient-chords-opening/z6901-ethereal-ambient-chords-opening-combined.mid",
+  "source_midi_sha256": "53ffbf34a8a83d62fe9297d0ac20a4e510b1118ea064c36d6e3a9d0bf62d52de",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "z6901",
+    "start_seconds": 0,
+    "end_seconds": 106.667
+  },
+  "measurement": {
+    "sample_peak": 0.181808,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

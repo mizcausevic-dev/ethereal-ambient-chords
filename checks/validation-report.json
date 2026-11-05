@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:58:31.731149+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z6901-ethereal-ambient-chords-opening/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "c204a2e64855ed6e5786007faaf31733ab9dea7bf95b51df541658046ee65492",
+      "errors": []
+    },
+    {
+      "path": "midi/z6901-ethereal-ambient-chords-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "b96abe29e48c44ec01d01bfee5d18f2d3ba91bccb7c6e5a4d644c26b779bd6ba",
+      "errors": []
+    },
+    {
+      "path": "midi/z6901-ethereal-ambient-chords-opening/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/z6901-ethereal-ambient-chords-opening/principal_motif.mid",
+      "bytes": 491,
+      "sha256": "81ef9dee88a3a58efb6d42ed06667c945054de5d70497dce7ee96b0db7fe58c3",
+      "errors": []
+    },
+    {
+      "path": "midi/z6901-ethereal-ambient-chords-opening/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "d6a4af99cacc4efc300ad42c4cf91f6292aa62afede42962f173871c31dd8817",
+      "errors": []
+    },
+    {
+      "path": "midi/z6901-ethereal-ambient-chords-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "7e573df855761b597ec1798697f22cbc9de60d1dff2f9a0fe26df289705db9ac",
+      "errors": []
+    },
+    {
+      "path": "midi/z6901-ethereal-ambient-chords-opening/z6901-ethereal-ambient-chords-opening-combined.mid",
+      "bytes": 3088,
+      "sha256": "53ffbf34a8a83d62fe9297d0ac20a4e510b1118ea064c36d6e3a9d0bf62d52de",
+      "errors": []
+    },
+    {
+      "path": "midi/z6902-ethereal-ambient-chords-variation/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "12fdcfeb132a9bf49712981ca4e9784d2c50aea2fc6f6e38c62cd4266b425416",
+      "errors": []
+    },
+    {
+      "path": "midi/z6902-ethereal-ambient-chords-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "273a9dcc98e58071a24b8c2b57c47ad3250bf5e0f44b45b2936d56465776a693",
+      "errors": []
+    },
+    {
+      "path": "midi/z6902-ethereal-ambient-chords-variation/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/z6902-ethereal-ambient-chords-variation/principal_motif.mid",
+      "bytes": 490,
+      "sha256": "4f9947406692067352da2b554b771d48dd1f9356f1711f1cd2bc31342fe07077",
+      "errors": []
+    },
+    {
+      "path": "midi/z6902-ethereal-ambient-chords-variation/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "e54171001012281b207ae732b3efc4213111e3b8122573db2ec6fd0278a9db26",
+      "errors": []
+    },
+    {
+      "path": "midi/z6902-ethereal-ambient-chords-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "fc8ac51ce6cb9c94d7dec749508fbfb3bae1232ef34b077109cf75d21f791fdc",
+      "errors": []
+    },
+    {
+      "path": "midi/z6902-ethereal-ambient-chords-variation/z6902-ethereal-ambient-chords-variation-combined.mid",
+      "bytes": 3087,
+      "sha256": "880959198fb1d6d0f31d5c67a26dadc2df893dd18b0d9fd4c6976e1329336862",
+      "errors": []
+    },
+    {
+      "path": "midi/z6903-ethereal-ambient-chords-contrast/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "b256b3f5b34cebe6a6270b830dd8c9ca114fcd4849efeed96465b9a5dd17d956",
+      "errors": []
+    },
+    {
+      "path": "midi/z6903-ethereal-ambient-chords-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "e8c442cc88ae071cbe79851cd4f63a579553cb39b89aa39d5519364b980fb743",
+      "errors": []
+    },
+    {
+      "path": "midi/z6903-ethereal-ambient-chords-contrast/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/z6903-ethereal-ambient-chords-contrast/principal_motif.mid",
+      "bytes": 470,
+      "sha256": "d8d3abd449c0303708aa8b6be698e6069784bd9b54531745c36e821fbf054acf",
+      "errors": []
+    },
+    {
+      "path": "midi/z6903-ethereal-ambient-chords-contrast/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "a246de30ba93d18282461c34164fdba5c3b900d79810d77fc6ab3c39a4978bfc",
+      "errors": []
+    },
+    {
+      "path": "midi/z6903-ethereal-ambient-chords-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "0d45f6330bbd8653ed11b2cc54b0dd9ec878583e4a3a74afdee5b35cfa15eac1",
+      "errors": []
+    },
+    {
+      "path": "midi/z6903-ethereal-ambient-chords-contrast/z6903-ethereal-ambient-chords-contrast-combined.mid",
+      "bytes": 3067,
+      "sha256": "aa43e1d7177c6f9be11ea050d0b571c156ad4c0dc8d0fee9f30f2ad6458a206e",
+      "errors": []
+    },
+    {
+      "path": "midi/z6904-ethereal-ambient-chords-return/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "0513e7fc91a490a3d92f9db0b8599771a9f57ded729423a9560bd4cba563fa08",
+      "errors": []
+    },
+    {
+      "path": "midi/z6904-ethereal-ambient-chords-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "4ded9d168c2567e164f0927cc462686638bb451df6d28422ebde9bf376b83087",
+      "errors": []
+    },
+    {
+      "path": "midi/z6904-ethereal-ambient-chords-return/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/z6904-ethereal-ambient-chords-return/principal_motif.mid",
+      "bytes": 470,
+      "sha256": "80bffc2e9485e98ee28f1be9b0e76b87ef00290fda363421ae174528e5ca9623",
+      "errors": []
+    },
+    {
+      "path": "midi/z6904-ethereal-ambient-chords-return/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "b87dea370ad31fe953501a98699a068cfec88a4c7b7f2b442f8a51f6e22c58bb",
+      "errors": []
+    },
+    {
+      "path": "midi/z6904-ethereal-ambient-chords-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "433b36f92b9aafcc24a74a18bd7752395baaaaa215a5d432c8e5aaaf7a714f8d",
+      "errors": []
+    },
+    {
+      "path": "midi/z6904-ethereal-ambient-chords-return/z6904-ethereal-ambient-chords-return-combined.mid",
+      "bytes": 3067,
+      "sha256": "8a9b5a5a294dde4ad24cceffde42959181b7baba0f5118f109df602a65a5d493",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}
