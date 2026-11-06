@@ -1,9 +1,9 @@
 {
   "label": "preview, not a master.",
   "preview_path": "preview/ethereal-ambient-chords-simple-synth-preview.mp3",
-  "preview_sha256": "1417bcb1eb645b05170ec62c147182b7c6f225a88aa16d6392fa5a58c3c98d1f",
+  "preview_sha256": "3b3a7d4eeeb4d469b0db76c8c2d991d68ef764dc5f76e5a91e2319a7e1d10516",
   "source_midi_path": "midi/z6901-ethereal-ambient-chords-opening/z6901-ethereal-ambient-chords-opening-combined.mid",
-  "source_midi_sha256": "53ffbf34a8a83d62fe9297d0ac20a4e510b1118ea064c36d6e3a9d0bf62d52de",
+  "source_midi_sha256": "10c345a7ae52061f31b65ae86a3e3554d6fa773e623c1c712d4894d20954e94a",
   "renderer": "release-simple-synth 1.0.0",
   "renderer_configuration": {
     "sample_rate": 44100,
@@ -23,7 +23,7 @@
     "end_seconds": 106.667
   },
   "measurement": {
-    "sample_peak": 0.181808,
+    "sample_peak": 0.208792,
     "not_lufs_or_true_peak": true
   },
   "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."

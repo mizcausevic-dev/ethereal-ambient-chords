@@ -68,8 +68,8 @@
     },
     {
       "path": "catalog/note-events.csv",
-      "bytes": 48804,
-      "sha256": "43f5f65a05bd3b81c8e811d758b822aee940271c0005312f8c165496a092cbbd"
+      "bytes": 48805,
+      "sha256": "9d247b458a8e71550ddfa0944c67b34f1ef84773c9d191005a93783f9fc4b284"
     },
     {
       "path": "catalog/patch-recipes.json",
@@ -94,7 +94,7 @@
     {
       "path": "checks/build-metadata.json",
       "bytes": 385,
-      "sha256": "b8cb584a0e65e6b048b6d9c44c0d7ba80d9a4eef46bba033264b90624b3aa6b7"
+      "sha256": "567d470f2b0551fcebae2a7ec33226a932bd56a56de94bfef7e46769986620f2"
     },
     {
       "path": "checks/clip-validation.json",
@@ -108,8 +108,8 @@
     },
     {
       "path": "checks/media-validation.json",
-      "bytes": 462,
-      "sha256": "96e442960d4e4ecb459c3eacba4abcd2a1b70cf47cd25c33dd86f20d6da3cdd1"
+      "bytes": 518,
+      "sha256": "3cac7f26f42447c61ee267a7d07f3a35f81b0b4d00609dffb5ebfb9193f066d2"
     },
     {
       "path": "clips/z6901-chord-progression-01.mid",
@@ -198,13 +198,13 @@
     },
     {
       "path": "downloads/ethereal-ambient-chords-midi.zip",
-      "bytes": 25294,
-      "sha256": "da7461b8daed7896306ccab326a9f38ddbe3fa6ac77db9cf3519f24694901033"
+      "bytes": 25591,
+      "sha256": "fefd76f8e5add7abc3d789c39d0612befee4e7d41a8a179ffd7728740546a74e"
     },
     {
       "path": "film/motion-note-roll.png",
-      "bytes": 2232,
-      "sha256": "d0245c4ceefc683e894ed2f8a96ec8be01b26572ca26028d05815e7c8397d252"
+      "bytes": 2252,
+      "sha256": "37cefb3181b6c25f61289bd2ecd7a476a0847423f3c2d0b0dae00fceb7d5cc38"
     },
     {
       "path": "film/motion-overlay.png",
@@ -218,8 +218,8 @@
     },
     {
       "path": "film/preview.mp4",
-      "bytes": 567202,
-      "sha256": "fa2f5b1d4efd33fe1e47cd7b72482773b886469ead0a12e74fd6d027b0a411b3"
+      "bytes": 552613,
+      "sha256": "a8b508914fcc5bc3194a84f2f791e5e1325c0b382e3a45f8c4f0ecd69faa5ea0"
     },
     {
       "path": "film/preview.vtt",
@@ -228,13 +228,13 @@
     },
     {
       "path": "film/video-manifest.json",
-      "bytes": 1225,
-      "sha256": "b883cdf336ac212a02e6d31d13cf9ecec0eb8a8adb79af4cda67d79942c752a3"
+      "bytes": 1251,
+      "sha256": "46e7665097662b8ec0ad214e9668877f7be669c5c0490f508e34bc5ec35a589a"
     },
     {
       "path": "index.html",
-      "bytes": 9994,
-      "sha256": "cbf8b53f9ee4ea442de7250829527feeadf1671321979e63e04f438c0d968aa9"
+      "bytes": 10210,
+      "sha256": "a831577df7a7a72da6a650df469801e13ebe99a1358e9906957d6cd656dbb581"
     },
     {
       "path": "midi/z6901-ethereal-ambient-chords-opening/chord_pulse.mid",
@@ -254,7 +254,7 @@
     {
       "path": "midi/z6901-ethereal-ambient-chords-opening/principal_motif.mid",
       "bytes": 491,
-      "sha256": "81ef9dee88a3a58efb6d42ed06667c945054de5d70497dce7ee96b0db7fe58c3"
+      "sha256": "9a9007f9685dd5890cdc30cf53923cc738e7fa39e235bd680f01d93312661d39"
     },
     {
       "path": "midi/z6901-ethereal-ambient-chords-opening/sub_bass.mid",
@@ -269,7 +269,7 @@
     {
       "path": "midi/z6901-ethereal-ambient-chords-opening/z6901-ethereal-ambient-chords-opening-combined.mid",
       "bytes": 3088,
-      "sha256": "53ffbf34a8a83d62fe9297d0ac20a4e510b1118ea064c36d6e3a9d0bf62d52de"
+      "sha256": "10c345a7ae52061f31b65ae86a3e3554d6fa773e623c1c712d4894d20954e94a"
     },
     {
       "path": "midi/z6902-ethereal-ambient-chords-variation/chord_pulse.mid",
@@ -288,8 +288,8 @@
     },
     {
       "path": "midi/z6902-ethereal-ambient-chords-variation/principal_motif.mid",
-      "bytes": 490,
-      "sha256": "4f9947406692067352da2b554b771d48dd1f9356f1711f1cd2bc31342fe07077"
+      "bytes": 491,
+      "sha256": "2cf5c90ec3c0f96d927db82686fd5da10e0b67cb2b905341569384da45f3a709"
     },
     {
       "path": "midi/z6902-ethereal-ambient-chords-variation/sub_bass.mid",
@@ -303,8 +303,8 @@
     },
     {
       "path": "midi/z6902-ethereal-ambient-chords-variation/z6902-ethereal-ambient-chords-variation-combined.mid",
-      "bytes": 3087,
-      "sha256": "880959198fb1d6d0f31d5c67a26dadc2df893dd18b0d9fd4c6976e1329336862"
+      "bytes": 3088,
+      "sha256": "1b5ac4d5937a2da213183a73be4977a3c55f5d9175c759e011336428aad6c1ad"
     },
     {
       "path": "midi/z6903-ethereal-ambient-chords-contrast/chord_pulse.mid",
@@ -324,7 +324,7 @@
     {
       "path": "midi/z6903-ethereal-ambient-chords-contrast/principal_motif.mid",
       "bytes": 470,
-      "sha256": "d8d3abd449c0303708aa8b6be698e6069784bd9b54531745c36e821fbf054acf"
+      "sha256": "687912fd4579888364b2f9eae30a6dbbed1b1f70fa1b2567cd52db02b2a9d8b2"
     },
     {
       "path": "midi/z6903-ethereal-ambient-chords-contrast/sub_bass.mid",
@@ -339,7 +339,7 @@
     {
       "path": "midi/z6903-ethereal-ambient-chords-contrast/z6903-ethereal-ambient-chords-contrast-combined.mid",
       "bytes": 3067,
-      "sha256": "aa43e1d7177c6f9be11ea050d0b571c156ad4c0dc8d0fee9f30f2ad6458a206e"
+      "sha256": "da17fbe5fead5debdb33befb0c681305d4b7fcdde016d87a61b42919f1cf6a6f"
     },
     {
       "path": "midi/z6904-ethereal-ambient-chords-return/chord_pulse.mid",
@@ -358,8 +358,8 @@
     },
     {
       "path": "midi/z6904-ethereal-ambient-chords-return/principal_motif.mid",
-      "bytes": 470,
-      "sha256": "80bffc2e9485e98ee28f1be9b0e76b87ef00290fda363421ae174528e5ca9623"
+      "bytes": 471,
+      "sha256": "13ede2442c47523a62664db6f478301debf50092c468c18631f795dea0ad6c29"
     },
     {
       "path": "midi/z6904-ethereal-ambient-chords-return/sub_bass.mid",
@@ -373,23 +373,28 @@
     },
     {
       "path": "midi/z6904-ethereal-ambient-chords-return/z6904-ethereal-ambient-chords-return-combined.mid",
-      "bytes": 3067,
-      "sha256": "8a9b5a5a294dde4ad24cceffde42959181b7baba0f5118f109df602a65a5d493"
+      "bytes": 3068,
+      "sha256": "8ee696238196a06d8a62fb774242a51a6536ed96f73fee792baa455ff430de39"
     },
     {
       "path": "preview/ethereal-ambient-chords-simple-synth-preview.mp3",
       "bytes": 2573627,
-      "sha256": "1417bcb1eb645b05170ec62c147182b7c6f225a88aa16d6392fa5a58c3c98d1f"
+      "sha256": "3b3a7d4eeeb4d469b0db76c8c2d991d68ef764dc5f76e5a91e2319a7e1d10516"
     },
     {
       "path": "preview/preview-manifest.json",
       "bytes": 1180,
-      "sha256": "d7ebc124ab3c9103000cad97650850e6da532705df38f4b67f9019d8b465af3a"
+      "sha256": "4eea0d1b59ac72515c4bdde5d81f45360b42b02525547f57a788da4c2c10cce7"
     },
     {
       "path": "README.md",
-      "bytes": 3980,
-      "sha256": "926fae6a303382b1783df23df1334d9c53237eb58772d176dac66e5e19575091"
+      "bytes": 4146,
+      "sha256": "823536205c3821d92b077b45a44d1719da472821396153f528364c46742c669f"
+    },
+    {
+      "path": "REVISION.md",
+      "bytes": 459,
+      "sha256": "3eacf0353039d04726de89d5e30850da6403bf4512bef6bf71ca90ebfdb2ee1f"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -423,8 +428,8 @@
     },
     {
       "path": "tools/build_release.py",
-      "bytes": 147463,
-      "sha256": "c692d41432c4d2932319ff9ad118ba1316a1d8d8bb058790337649670fc3af2d"
+      "bytes": 147889,
+      "sha256": "c6f0c6494a02eb05ee5254dc474649e15067a4a795e989b3f272bee514cbd84f"
     },
     {
       "path": "tools/polish_release.py",
