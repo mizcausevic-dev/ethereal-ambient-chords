@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/ethereal-ambient-chords-midi.zip",
-      "bytes": 25591,
-      "sha256": "fefd76f8e5add7abc3d789c39d0612befee4e7d41a8a179ffd7728740546a74e"
+      "bytes": 27067,
+      "sha256": "5b5d816cd5143af0d72bd8993c47792b11535659ed0a2b0b37a61e2b81166205"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10210,
-      "sha256": "a831577df7a7a72da6a650df469801e13ebe99a1358e9906957d6cd656dbb581"
+      "bytes": 10400,
+      "sha256": "03a21f50bd491000484839ec9a10695f30ec5fc7098abda913447f2279be6688"
     },
     {
       "path": "midi/z6901-ethereal-ambient-chords-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "8ee696238196a06d8a62fb774242a51a6536ed96f73fee792baa455ff430de39"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/ethereal-ambient-chords-simple-synth-preview.mp3",
       "bytes": 2573627,
       "sha256": "3b3a7d4eeeb4d469b0db76c8c2d991d68ef764dc5f76e5a91e2319a7e1d10516"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4146,
-      "sha256": "823536205c3821d92b077b45a44d1719da472821396153f528364c46742c669f"
+      "bytes": 4261,
+      "sha256": "04440bc4f414b8cd4f615859003f95cca300291378d471fb210d2b0ee8537eb3"
     },
     {
       "path": "REVISION.md",
